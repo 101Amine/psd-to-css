@@ -337,6 +337,13 @@ p[data-width="wide"] {
   }
 }
 
+
+/* Numbered items  */
+
+.numbered-items {
+  list-style: decimal !important;
+}
+
 /* Utility classes */
 
 .visually-hidden {
